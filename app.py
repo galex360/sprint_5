@@ -21,7 +21,7 @@ fig = px.histogram(data, x="odometer")
 #Mostrar gráfico
 st.plotly_chart(fig, use_container_width=True)
 
-displayhook(data)
+    
     
 #Crear dispersión 
 
