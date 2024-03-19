@@ -9,3 +9,6 @@ El conjunto de datos utilizado en esta aplicación contiene información sobre a
 Construcción de histogramas que permiten visualizar la distribución de una variable selecionada.
 
 Construcción de gráficos de dispersión en el cual permitel explorar la relación entre dos variables  seleccionadas en el conjunto de datos mediante un gráfico de dispersión, y además una tercera variable que da la opción de colorear los puntos.
+
+#Link de la app 
+https://sprint-5-5if4.onrender.com

@@ -1,4 +1,5 @@
 from sys import displayhook
+from tkinter.tix import DisplayStyle
 import pandas as pd
 import plotly.express as px
 import streamlit as st
